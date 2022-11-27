@@ -1,0 +1,33 @@
+First Name [Required],Last Name [Required],Email Address [Required],Status [READ ONLY],Last Sign In [READ ONLY],Email Usage [READ ONLY]
+Admin,exemplo,admin@exemplo.com,Active,2022/11/25 20:20:50,1.6GB
+Adriana,Coelho,adriana.coelho@exemplo.com,Active,2022/11/22 18:55:52,0.23GB
+Aline,de Souza,aline.souza@exemplo.com,Active,2022/11/25 03:22:00,3.59GB
+Amanda,Moura,amanda.moura@exemplo.com,Active,2022/11/17 04:55:04,1.89GB
+AMPTEC,ME,amptec@exemplo.com,Active,2022/09/27 07:09:49,0.0GB
+Ana,Silva,ana.silva@exemplo.com,Active,2022/11/23 16:36:51,0.09GB
+exemplo,shop,exemplo.shop@exemplo.com,Active,2022/04/13 05:26:45,0.0GB
+Atendimento,exemplo,atendimento@exemplo.com,Active,2022/08/24 09:34:08,0.0GB
+Beatriz,Arruda,beatriz.arruda@exemplo.com,Active,2022/11/22 10:15:23,20.54GB
+Bruna,Klabim,bruna.klabim@exemplo.com,Active,2022/11/21 11:47:40,0.14GB
+cadastro,exemplo,cadastro@exemplo.com,Active,2020/09/11 10:53:28,0.0GB
+Caio,Calvo,caio.calvo@exemplo.com,Active,2022/09/29 05:26:45,12.3GB
+Camila,Martins,camila.martins@exemplo.com,Active,2022/11/08 05:42:08,1.51GB
+Diva,Aguiar,diva.aguiar@exemplo.com,Active,2020/06/02 20:35:56,0.07GB
+Drop,Box,drop.box@exemplo.com,Active,2022/11/12 07:21:16,0.0GB
+Felipe,Aguiar,felipe.aguiar@exemplo.com,Active,2022/11/25 04:33:51,0.43GB
+Financeiro,exemplo,financeiro@exemplo.com,Active,2022/11/25 08:00:17,0.89GB
+intranet,exemplo,intranet@exemplo.com,Active,Never logged in,0.0GB
+Juliana,Reis,juliana.reis@exemplo.com,Active,2022/11/23 03:02:58,2.5GB
+Karina,do Vale,karina.vale@exemplo.com,Active,2022/11/25 00:31:46,0.68GB
+Karla,Marim,karla.marim@exemplo.com,Active,2022/11/18 04:42:57,8.86GB
+Laura,Garcia,laura.garcia@exemplo.com,Active,2022/11/23 05:19:21,2.55GB
+Luciana,Abreu,luciana.abreu@exemplo.com,Active,2022/11/16 12:55:56,0.66GB
+Milene,Barreto,milene.barreto@exemplo.com,Active,2022/10/05 07:03:59,1.14GB
+Nicole,Pereira,nicole.pereirai@exemplo.com,Active,2022/11/21 08:51:55,0.14GB
+Paula,Colombo,paula.colombo@exemplo.com,Active,2022/11/25 03:48:30,15.11GB
+Recepcao,exemplo,recepcao@exemplo.com,Active,2022/11/21 04:51:28,3.58GB
+RH,exemplo,rh@exemplo.com,Active,2022/11/21 11:41:30,13.35GB
+Simone,Ribeiro,simone.ribeiro@exemplo.com,Active,2022/11/21 12:16:12,9.2GB
+Tatiana,Manzini,tatiana.manzini@exemplo.com,Active,2022/11/22 08:47:54,3.68GB
+Vera,Maciel,vera.maciel@exemplo.com,Active,2022/11/16 10:58:09,0.26GB
+zoom,exemplo,zoom@exemplo.com,Active,Never logged in,0.0GB
